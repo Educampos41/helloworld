@@ -1,7 +1,8 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# Este repositório contém o ola Mundo!
+Olá Mundo!
 
-This repository is built step by step in the tutorial.
+Repositório da aula sobre GitHub!
 
-alteração pelo git hub.
+Alteração feita pelo Git Hub!
+
+Alteração feita pela branch "update-readme"!
